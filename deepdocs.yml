@@ -1,5 +1,5 @@
 target:
-  - url: "README.md"
+  - url: "docu.md"
 
 reinit: "unique-string-to-force-refresh-2"
 
