@@ -8,3 +8,4 @@ include:
   - "db"
   - "lib"
   - "components"
+  - "db/models.ts" 
